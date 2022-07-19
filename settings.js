@@ -67,10 +67,10 @@ global.botname = 'Shadow Bot' //ur bot name
 global.linkz = "https://www.youtube.com/channel/UCnUTfbqGBCyDmkzS0kM50OQ" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/channel/UCnUTfbqGBCyDmkzS0kM50OQ" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
+global.reactmoji = "🎈" //ur menu react emoji
+global.themeemoji = "✨" //ur theme emoji
 global.packname = "Shadow Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Shadow" //ur sticker watermark author
+global.author = "Devs Shadow" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
